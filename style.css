@@ -1,0 +1,104 @@
+#banner {
+	background-image: url('https://www.hamburg-port-authority.de/fileadmin/user_upload/Header_Schiene_TransportRail.jpg');
+	margin: 30px;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+body {
+  	color: rgb(10, 10, 10);
+	background-color: rgb(220,220,220);
+	font-family: 'Lato', sans-serif;
+ 	font-weight: lighter;
+}
+
+h1, h2, p {
+text-align: center;
+
+}
+
+h1 {
+
+color : red;
+font-family: 'Gugi', cursive;
+font-size: 50 px;
+font-weight: bold;
+
+}
+
+
+
+h2 {
+color: #FF530D;
+font-family: Courier;
+}
+
+p {
+
+}
+
+
+.footer {
+	background-color: black;
+	color: white;
+	
+
+}
+
+.footer p {
+	text-align: left;
+}
+
+.block {
+margin: 80px;
+padding: 40px;
+border-radius: 10px;
+box-shadow: 2px 2px 3px rgba(0,0,0,0.2);
+background: white; 
+text-align: center;
+margin: 20px 0 px;
+}
+
+.block img {
+width: 100px;
+
+}
+
+a {
+text-decoration: none;
+
+}
+
+a:hover {
+	color:red;
+}
+
+#banner a{
+
+	color: red;
+	padding: 20px 30px;
+	background-color: white;
+	border-radius: 30px;
+}
+
+#banner p{
+
+	color: white;
+	margin-bottom: 60px
+
+}
+
+div{
+
+
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+.list-inline li {
+  display: inline;
+  padding: 0px 8px;
+}
